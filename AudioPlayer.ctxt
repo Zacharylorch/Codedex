@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AudioPlayer
+comment0.text=\n\ AudioPlayer\ for\ playing\ audio.\n\n\ @author\ Zachary\ Lorch\n\ @author\ Jimmy\ Chen\n\ @author\ Steven\ Weller\n\ @version\ 12.12.2024\n
+comment1.params=
+comment1.target=AudioPlayer()
+comment1.text=\n\ Initialize\ AudioPlayer\n
+comment2.params=audioIndex
+comment2.target=void\ setFile(int)
+comment2.text=\n\ Sets\ the\ audio\ file\ using\ the\ provided\ audio\ index.\n\ \n\ @param\ audioIndex\n\ \ \ \ \ \ The\ index\ of\ the\ audio\ to\ be\ set.\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\n\ Plays\ the\ audio.\n
+comment4.params=
+comment4.target=void\ loop()
+comment4.text=\n\ Plays\ the\ audio\ continuously.\n
+comment5.params=
+comment5.target=void\ stop()
+comment5.text=\n\ Stops\ the\ audio\n
+comment6.params=
+comment6.target=boolean\ isPlaying()
+comment6.text=\n\ Gets\ the\ current\ status\ of\ the\ AudioPlayer.\n\ \n\ @return\n\ \ \ \ \ \ True\ if\ the\ audio\ is\ currently\ playing.\ Otherwise,\ false.\n
+numComments=7

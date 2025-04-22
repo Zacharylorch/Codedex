@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CanvasFrame
+comment0.text=\n\ 2D\ Frame\ for\ 2D\ Graphics\n\ \n\ @author\ Zachary\ Lorch\n\ @author\ Jimmy\ Chen\n\ @author\ Steven\ Weller\n\ @version\ 12.12.2024\n
+comment1.params=
+comment1.target=CanvasFrame()
+comment1.text=\n\ Creates\ a\ new\ CanvasFrame\ object.\n
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rectangle2D
+comment0.text=\n\ Subclass\ Rectangle2D\n\n\ @author\ Zachary\ Lorch\n\ @author\ Jimmy\ Chen\n\ @author\ Steven\ Weller\n\ @version\ 12.12.2024\n
+comment1.params=fillColorIndex\ xPosition\ yPosition\ width\ height
+comment1.target=Rectangle2D(int,\ int,\ int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Rectangle2D.\n\ \n\ @param\ fillColorIndex\n\ \ \ \ \ \ The\ index\ of\ the\ color\ of\ the\ rectangle\ in\ the\ COLORS\ array.\n\ @param\ xPosition\n\ \ \ \ \ \ The\ x-position\ of\ the\ rectangle.\n\ @param\ yPosition\n\ \ \ \ \ \ The\ y-position\ of\ the\ rectangle.\n\ @param\ width\n\ \ \ \ \ \ The\ width\ of\ the\ rectangle.\n\ @param\ height\n\ \ \ \ \ \ The\ height\ of\ the\ rectangle.\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment2.text=\n\ Gets\ the\ width\ of\ the\ rectangle.\n\ \n\ @return\n\ \ \ \ \ \ The\ width\ of\ the\ rectangle.\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\n\ Gets\ the\ height\ of\ the\ rectangle.\n\ \n\ @return\n\ \ \ \ \ \ The\ height\ of\ the\ rectangle.\n
+comment4.params=g
+comment4.target=void\ Draw(java.awt.Graphics)
+numComments=5
